@@ -131,7 +131,9 @@ fine-tuning sam to plot extraction
 - `predict`: 批量处理输入图像，返回预测掩码和性能指标。  
 - `save_predictions`: 将预测掩码保存到指定目录。
 
-### 7.二值化
+---
+
+### 7. 二值化
 **文件：afterpreprocess.py**
 
 **核心功能**
